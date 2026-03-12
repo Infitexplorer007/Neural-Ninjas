@@ -1,0 +1,75 @@
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.buildlog/
+.history
+.svn/
+migrate_working_dir/
+
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# The .vscode folder contains launch configurations and items used when running tests
+.vscode/
+
+# Flutter-SDK-related
+/bin/cache/
+/bin/mingw64/
+/bin/lib/
+/bin/mingw/
+/lib/
+/packages/
+/src/
+
+# Android-related
+**/android/**/gen/
+**/android/**/out/
+**/android/**/bin/
+**/android/**/build/
+**/android/**/.gradle/
+**/android/**/local.properties
+**/android/**/GeneratedPluginRegistrant.java
+
+# iOS / macOS-related
+**/ios/**/*.mode1v3
+**/ios/**/*.mode2v3
+**/ios/**/*.moved-aside
+**/ios/**/*.pbxuser
+**/ios/**/*.perspectivev3
+**/ios/**/*sync/
+**/ios/**/.sconsign.dblite
+**/ios/**/.tags*
+**/ios/**/DerivedData
+**/ios/**/Icon?
+**/ios/**/Pods
+**/ios/**/.xcworkspace
+**/ios/**/Frameworks
+**/ios/**/GeneratedPluginRegistrant.h
+**/ios/**/GeneratedPluginRegistrant.m
+**/ios/**/xcshareddata/WorkspaceSettings.xcsettings
+**/ios/**/xcuserdata
+/ios/Flutter/Config.xcconfig
+/ios/Flutter/Generated.xcconfig
+/ios/Flutter/flutter_export_environment.sh
+/ios/Flutter/App.framework
+/ios/Flutter/Flutter.framework
+/ios/Flutter/Flutter.podspec
+/ios/ServiceDefinitions.json
+/macos/Flutter/ephemeral/
+
+# Web-related
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+build/
+
+# Visual Studio Code-related
+.vscode/
